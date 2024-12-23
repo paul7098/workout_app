@@ -7,7 +7,7 @@ module.exports = {
         'off-white': '#F2F0EF',
       },
       fontFamily: {
-        khand: ['Khand', 'sans-serif'],
+        zen: ['"Zen Old Mincho"', 'serif'],
       },
     },
   },
